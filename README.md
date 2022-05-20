@@ -1,9 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=chiranthans23)
 ## Hi there 👋, I am Chiranthan
 
-
-### ✨ What I am doing:
-- 🌱 I’m currently learning Pytorch🔥 
+### ✨ MS in CS University of Colorado Boulder ⛰️:
 - 📨 I am looking for a summer internship in AI and NLP for Summer 2023
 - 🏫 I will be joining University of Colorado Boulder Fall 22
 
