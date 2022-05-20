@@ -1,9 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=chiranthans23)
 ## Hi there 👋, I am Chiranthan
 
-### ✨ MS in CS University of Colorado Boulder ⛰️:
+### 👨‍🎓 Pursuing MS in CS University of Colorado Boulder ⛰️:
+- ✍️ I am foucssing on Natural Language Processsing
 - 📨 I am looking for a summer internship in AI and NLP for Summer 2023
-- 🏫 I will be joining University of Colorado Boulder Fall 22
+- ✨ I am currently revising NLP, ML topics for interviews
 
 
 
