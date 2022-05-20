@@ -14,22 +14,19 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="pytorch-logo.png" alt="Pytorch" height="40" style="vertical-align:top; margin:4px">
 <img src="PyTorch_Lightning_Logo.png" alt="Pytorch Lightning" height="40" style="vertical-align:top; margin:4px">
-<img src="golang.png" alt="Golang" height="40" style="vertical-align:top; margin:4px">
+<img src="go.png" alt="Golang" height="40" style="vertical-align:top; margin:4px">
  <img src="docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
  <img src="kubernetes.png" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<a href="https://github.com/chiranthans23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranthans23&show_icons=true&theme=radical"/>
+<br/>
+
+
+  <img style="vertical-align:top" align="center" src="https://github-readme-stats.vercel.app/api?username=chiranthans23&show_icons=true&theme=radical"/>
 </a>
-
-
-
-
 <a href="https://github.com/chiranthans23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranthans23&layout=compact"/>
+  <img align="center" style="vertical-align:top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranthans23&layout=compact"/>
 </a>
-
 
 
 
